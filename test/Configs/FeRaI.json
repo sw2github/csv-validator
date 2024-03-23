@@ -1,0 +1,13 @@
+﻿{
+  "columnSeperator": ";",
+  "rowSeperator": "\r\n",
+  "hasHeaderRow": true,
+  "columns": {
+    "1": {
+      "name": "Satzart",
+      "unique": false,
+      "maxLength": 1,
+      "pattern": "^[I]$"
+    }
+  }
+}

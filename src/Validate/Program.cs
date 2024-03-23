@@ -4,6 +4,7 @@ namespace FormatValidator
     using System;
     using System.Collections.Generic;
     using CommandLine;
+    using Newtonsoft.Json;
     using Validate;
 
     /// <summary>

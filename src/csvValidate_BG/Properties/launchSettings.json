@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "csvValidate_BG": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\data\\Dienst_01.csv .\\data\\Dienst"
+    },
+    "FeRa1": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\data\\FeRa_01.csv .\\data\\FeRa"
+    },
+    "FeRa2": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\data\\FeRa_02.csv .\\data\\FeRa"
+    }
+  }
+}
